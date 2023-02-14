@@ -1,0 +1,32 @@
+.footer-container {
+    display: block;
+    background-color: #172337;
+    width: 100%;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.footer-div {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.f-main {
+    text-align: left;
+    color: #fff;
+}
+
+.f-div-head {
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+
+.f-content {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
